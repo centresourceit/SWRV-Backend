@@ -24,8 +24,7 @@ class App extends BaseConfig
      *
      * @var string
      */
-    public $baseURL = 'https://www.bluelemontech.in/websites/swrv/';
-    // public $baseURL = 'http://localhost/swrv/';
+    public $baseURL = 'http://localhost/swrv/';
     
 
     /**
